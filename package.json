@@ -1,0 +1,27 @@
+{
+  "name": "nlw-06-Discover",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido durante a semana Next Level Week 06",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewherculano/nlw-06-discover.git"
+  },
+  "keywords": [],
+  "author": "Andrew Herculano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewherculano/nlw-06-discover/issues"
+  },
+  "homepage": "https://github.com/andrewherculano/nlw-06-discover#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
