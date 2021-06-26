@@ -150,3 +150,34 @@
 .question-wrapper.read .question-content .user {
   background: var(--grey-blue)
 }
+
+/* No Questions */
+
+.no-questions {
+  text-align: center;
+  margin-top: 5.2rem;
+}
+
+.no-questions img {
+  max-width: 100%;
+  margin-bottom: 1.2rem;
+}
+
+.no-questions p {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 1.8rem;
+
+  color: var(--black);
+}
+
+.no-questions p + p {
+  font-size: 1.4rem;
+  font-weight: normal;
+
+  color: var(--grey-blue);
+
+  margin-top: 1.3rem;
+
+  line-height: 1.9rem;
+}
